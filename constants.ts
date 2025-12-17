@@ -10,7 +10,7 @@ import { TikTok } from './components/Icons';
 import { LinkGroup, LinkItem, SocialItem } from './types';
 
 // REPLACE THIS URL WITH THE URL OF YOUR UPLOADED BANNER IMAGE
-export const BANNER_IMAGE_URL = "images/banner.png";
+export const BANNER_IMAGE_URL = "images/banner_livros_caio_amazon.png";
 // Note: Since I cannot see the local file, I am using a generic high-quality book/spiritual background as a placeholder. 
 // Ideally, you should host your specific image and paste the link above.
 
