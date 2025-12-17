@@ -88,6 +88,24 @@ To preview the production build locally:
 npm run preview
 ```
 
+### Deployment
+
+To deploy updates to the live site on GitHub Pages:
+
+1. **Push changes to the repository**:
+   ```bash
+   git add .
+   git commit -m "Update description"
+   git push origin master
+   ```
+
+2. **Deploy to GitHub Pages**:
+   ```bash
+   npm run deploy
+   ```
+
+🚀 **Live Deployment**: [https://marcellocunha.github.io/caiofabionaamazon/](https://marcellocunha.github.io/caiofabionaamazon/)
+
 ## 📂 Project Structure
 
 ```
