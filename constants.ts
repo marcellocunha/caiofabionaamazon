@@ -178,8 +178,9 @@ export const LINK_GROUPS: LinkGroup[] = [
 ];
 
 export const SOCIALS: SocialItem[] = [
-  { platform: 'Instagram', url: 'https://www.instagram.com/caiofabiodaraujofilho/', icon: Instagram },
-  { platform: 'Facebook', url: 'https://www.facebook.com/caiofabio.vvtv', icon: Facebook },
-  { platform: 'TikTok', url: 'https://www.tiktok.com/@caiofabiooficial', icon: TikTok },
+  { platform: 'Website', url: 'https://www.caiofabio.com.br', icon: Globe },
   { platform: 'YouTube', url: 'https://www.youtube.com/@canalcaiofabio', icon: Youtube },
+  { platform: 'Instagram', url: 'https://www.instagram.com/caiofabiodaraujofilho/', icon: Instagram },
+  { platform: 'TikTok', url: 'https://www.tiktok.com/@caiofabiooficial', icon: TikTok },
+  { platform: 'Facebook', url: 'https://www.facebook.com/caiofabio.vvtv', icon: Facebook },
 ];
