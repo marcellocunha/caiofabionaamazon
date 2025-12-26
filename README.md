@@ -91,6 +91,10 @@ npm run preview
 
 To deploy updates to the live site on GitHub Pages:
 
+> [!IMPORTANT]
+> **Pushing to GitHub does NOT automatically update the live site.**
+> You MUST run the deploy command (Step 2) to build and publish the changes to GitHub Pages.
+
 1. **Push changes to the repository**:
    ```bash
    git add .
