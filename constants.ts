@@ -10,7 +10,7 @@ import { TikTok } from './components/Icons';
 import { LinkGroup, LinkItem, SocialItem } from './types';
 
 // REPLACE THIS URL WITH THE URL OF YOUR UPLOADED BANNER IMAGE
-export const BANNER_IMAGE_URL = "images/banner_livros_caio_amazon.png";
+export const BANNER_IMAGE_URL = "images/banner_livros_caio_nephilim.jpg";
 // Note: Since I cannot see the local file, I am using a generic high-quality book/spiritual background as a placeholder. 
 // Ideally, you should host your specific image and paste the link above.
 
@@ -26,7 +26,7 @@ export const LINK_GROUPS: LinkGroup[] = [
     items: [
       {
         id: 'book-1',
-        title: 'UM SÓ: CAMINHO',
+        title: 'Um só Caminho',
         subtitle: 'Portuguese Edition',
         url: 'https://amzn.to/4pZrDZi',
         icon: BookOpen,
@@ -50,9 +50,17 @@ export const LINK_GROUPS: LinkGroup[] = [
       },
       {
         id: 'book-4',
-        title: 'SEGUIR JESUS',
-        subtitle: 'O MAIS FASCINANTE PROJETO DE VIDA',
+        title: 'Seguir Jesus',
+        subtitle: 'O mais fascinante projeto de vida',
         url: 'https://amzn.to/48SMVB5',
+        icon: BookOpen,
+        variant: 'book'
+      },
+      {
+        id: 'book-5',
+        title: 'Nephilim',
+        subtitle: 'Portuguese Edition',
+        url: 'https://a.co/d/6cZRKVU',
         icon: BookOpen,
         variant: 'book'
       },
